@@ -6,4 +6,4 @@
 6. Create security group to allow port 22,80,443
 7. Create a network interface with an ip in the subnet that was carried in step 4
 8. Assign an elastic ip to the network interface created in step 7
-9. create ubuntu server snf install/enable apache2
+9. Create ubuntu server snf install/enable apache2
